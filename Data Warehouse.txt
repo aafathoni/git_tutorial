@@ -1,3 +1,4 @@
 1. Tabel Transaksi
 2. Tabel Pelanggan
 3. Tabel Produk
+4. Tabel Waktu
